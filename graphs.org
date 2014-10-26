@@ -1,0 +1,18 @@
+
+
+* draw take #1 pictures [2/5]
+** DONE display stats: [4/4]
+*** DONE disk space (usedf,ragmented,free)
+*** DONE disk utilization 
+*** DONE rbs/wbs
+*** DONE cpu
+** DONE grade goodness/badness primitively
+** TODO improve generator
+** TODO use keys like in the actual json from backends
+
+** TODO things currently left [2/3]
+*** DONE display tips
+*** DONE paint green/red
+*** TODO decrease radiuses
+
+
